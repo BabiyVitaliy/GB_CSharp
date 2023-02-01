@@ -1,0 +1,15 @@
+D:\teach\GB\CSharp_seminar\003\bin\Debug\net7.0\003.exe
+D:\teach\GB\CSharp_seminar\003\bin\Debug\net7.0\003.deps.json
+D:\teach\GB\CSharp_seminar\003\bin\Debug\net7.0\003.runtimeconfig.json
+D:\teach\GB\CSharp_seminar\003\bin\Debug\net7.0\003.dll
+D:\teach\GB\CSharp_seminar\003\bin\Debug\net7.0\003.pdb
+D:\teach\GB\CSharp_seminar\003\obj\Debug\net7.0\003.csproj.AssemblyReference.cache
+D:\teach\GB\CSharp_seminar\003\obj\Debug\net7.0\003.GeneratedMSBuildEditorConfig.editorconfig
+D:\teach\GB\CSharp_seminar\003\obj\Debug\net7.0\003.AssemblyInfoInputs.cache
+D:\teach\GB\CSharp_seminar\003\obj\Debug\net7.0\003.AssemblyInfo.cs
+D:\teach\GB\CSharp_seminar\003\obj\Debug\net7.0\003.csproj.CoreCompileInputs.cache
+D:\teach\GB\CSharp_seminar\003\obj\Debug\net7.0\003.dll
+D:\teach\GB\CSharp_seminar\003\obj\Debug\net7.0\refint\003.dll
+D:\teach\GB\CSharp_seminar\003\obj\Debug\net7.0\003.pdb
+D:\teach\GB\CSharp_seminar\003\obj\Debug\net7.0\003.genruntimeconfig.cache
+D:\teach\GB\CSharp_seminar\003\obj\Debug\net7.0\ref\003.dll
