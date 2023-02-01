@@ -1,4 +1,6 @@
-﻿System.Console.Write("Введи число от 1 до 7: ");      
+﻿// 4. По заданному с клавиатуры номеру дня недели вывести его название
+
+System.Console.Write("Введи число от 1 до 7: ");      
 int a=Convert.ToInt32(Console.ReadLine());
 System.Console.Write($"{"Введённое число "}{a}{" это: "}");
 switch (a)
