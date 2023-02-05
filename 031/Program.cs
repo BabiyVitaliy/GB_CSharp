@@ -1,4 +1,5 @@
-﻿// Вывести на экран таблицу квадратов чисел от 1 до N
+﻿// Вывести на экран кубы чисел от 1 до N
+
 System.Console.Write("Введите число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
@@ -8,7 +9,7 @@ void PowerUp(int n)
 {
     for (int i = 1; i < n; i++)
     {
-        System.Console.WriteLine($"{i}{"^2="}{Math.Pow(i, 2)}");
+        System.Console.WriteLine($"{i}{"^3="}{Math.Pow(i, 3)}");
     }
 }
 
