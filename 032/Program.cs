@@ -7,7 +7,7 @@ System.Console.WriteLine($"{"Сумма чисел от 1 до "}{a}{" = "}{b}")
 int summ (int chislo)
 {
     int now = 0;
-    while (chislo>0);
+    while (chislo>0)
     {
         now += a;
         a--;
